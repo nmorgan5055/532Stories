@@ -14,7 +14,6 @@ The confusion did nothing but increase as a series of slot appeared on the chest
 
 "Everyone knows just one more try is all a gambler needs!"
 
-<<<<<<< HEAD
 The gambler reached for the lever.
 
 "I'm feeling lucky" he said as he pulled the lever with all his might
@@ -28,6 +27,4 @@ The last slot landed on a banana and the gambler's heart dropped.
 "Oh, that's quite unfortunate." The robot said. "But you know, 93% of gamblers quit before their big win." The robot finished gesturing toward the lever.
 
 The gambler weighed his options, he must pull the lever again.
-=======
-The gambler reached for the lever.  The slots began spinning rapidly.
->>>>>>> 48f1dc069a1e8dc3bcb7effb69a72a23c6eeeda3
+
