@@ -5,6 +5,15 @@ penned by an anonymous author whose words reveal the hidden desires and regrets 
 It had been a long day of delivering mail, and Jeff was hoping to go home and sleep.  
 As he was leaving, a mysterious letter fell off of the shelf, sending a cloud of dust into the air.  
 Curious, Jeff walked over and picked up the letter.
+<<<<<<< HEAD
+
+It was written in a typewriter and addressed to John F Kennedy.
+
+Given John F Kennedy is dead, he decied to open it.
+
+"Don't ride in that motorcade, you will be shot. Signed Matthew, from the future"
+
+=======
 
 It was written in a typewriter and addressed to John F Kennedy.
 
@@ -20,3 +29,4 @@ The postal worker, knowing he broke the law reading the message hurridly put it 
 "I didn't see anything. I don't know anything."
 
 He forgot everything he read about the moon's infestation and went home to go to sleep, happy his day was finally over.
+>>>>>>> 48f1dc069a1e8dc3bcb7effb69a72a23c6eeeda3
